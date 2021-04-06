@@ -23,7 +23,7 @@ Pasta Search: ![R F 3](https://user-images.githubusercontent.com/53154900/113657
 
 ## Contribute
 
-Want to contribute? You can find the github repo here: 
+Want to contribute? You can find the github repo here: https://github.com/ALEX00100alex/Recipe-Finder
 
 ## Credits
 
